@@ -1,11 +1,24 @@
-# Flutter ToDo App
+# Task Master - Flutter Todo List Application
 
-A basic to-do app built with Flutter. This app has add/delete/update functinality with search for any existing to-do item in the app.
+Task Master is a Flutter application designed to serve as a comprehensive and efficient todo list with real-time search capabilities. Users can easily add/delete/update specific tasks in real time.
 
-## Watch it on YouTube
-This repository is part of a tutorial on my YouTube.
-- [Flutter ToDo App Tutorial for Beginners](https://youtu.be/K4P5DZ9TRns)
+
+## Technologies Used
+Flutter: Google's UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
+## Contributions
+Contributions are welcome! Please feel free to open a pull request or submit an issue for any new features or improvements you'd like to see.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgements
+Flutter
+
 
 ## Screenshot
 
-![Flutter todo app](./flutter-todo-iphone.png)
+![TM SplashScreen](https://github.com/SamiAther08/Task_Master/assets/99541104/f5e55cdf-06b3-4976-87a6-cfc7d3817ae8)
+
+
+![TM](https://github.com/SamiAther08/Task_Master/assets/99541104/b7fe9789-e7b6-43bd-b79e-c3be020055f2)
+
